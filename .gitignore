@@ -1,0 +1,17 @@
+node_modules/
+
+*.DS_Store
+
+package-lock.json
+
+config.js
+
+node_modules
+
+atom-package-list.txt
+
+renamethisfile.txt
+
+node-sass
+
+.env
